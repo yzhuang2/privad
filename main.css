@@ -1,0 +1,26 @@
+h3{
+	font-size:40px;
+	font-family: Arial,serif;
+	color:#545454;
+	text-decoration: none;
+	text-align: right;
+}
+
+#second{
+	font-family: Arial,serif;
+	font-size: 50px;
+	font-weight:bold;
+	color:#d3d3d3;
+	text-decoration:none;
+	text-align:right;
+}
+
+#dot{
+	width:630px;
+	height:630px;
+	position:absolute;
+	border-radius:650px;
+	background-color:yellow;
+	top:60px;
+	left:310px;
+}
